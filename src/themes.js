@@ -9,7 +9,7 @@ export const lightTheme = {
     primary: "#FF4785",
     secondary: "#1EA7FD",
     tertiary: "#DDDDDD",
-    text: "#222222",
+    text: "#ffffff",
   },
   spacing: {
     padding: {
